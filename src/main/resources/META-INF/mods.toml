@@ -1,1 +1,14 @@
-
+modLoader="javafml"
+loaderVersion="[36,)"
+license="ARR"
+[[mods]]
+modId="ultravisuals"
+version="1.0.0"
+displayName="Ultra Visuals"
+description="100+ визуальных функций"
+[[dependencies.ultravisuals]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="CLIENT"
